@@ -10,7 +10,9 @@ I've been coding from 2020 started with python as my domain and learnt some mach
 * 🖥️  See my portfolio at [My Portfolio](https://dinesh0420.github.io/portfolio/)
 * ✉️  You can contact me at [sureshdinesh54@gmail.com](mailto:sureshdinesh54@gmail.com)
 * 😀  Working with HIDDENLEAF project [See the PPT] (https://docs.google.com/presentation/d/1vFrTvgDQu74lG9o8dHYyT21dEUj7yJmv/edit?usp=sharing&ouid=116683773354017012153&rtpof=true&sd=true)
-* 🧠  I'm learning React.js, Node.js
+* 🤣  Registration form  (https://registrati.netlify.app/)
+* 😴  Guess the number  (https://guessnumberda.netlify.app/)
+* 🧠  I'm learning React.js, Node.js
 * ⚡  I'm sky gazer, My day doesn't finish without seeing those clouds and sky for 15 min
 
 ### Skills
