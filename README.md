@@ -7,8 +7,9 @@ Web Developer
 I've been coding from 2020 started with python as my domain and learnt some machine learning algorithm, built some projects based on computer vision , image processing and machine learning. By 2021, I started learning Front end tools like HTML CSS JavaScript Bootstrap React , and I have deployed some cool static websites in my git environment. Currently I am working with backend tools.... My web developer journey will never stop
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://https://dinesh0420.github.io/portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://dinesh0420.github.io/portfolio/)
 * ✉️  You can contact me at [sureshdinesh54@gmail.com](mailto:sureshdinesh54@gmail.com)
+* 😀  Working with HIDDENLEAF project [See the PPT] (https://docs.google.com/presentation/d/1vFrTvgDQu74lG9o8dHYyT21dEUj7yJmv/edit?usp=sharing&ouid=116683773354017012153&rtpof=true&sd=true)
 * 🧠  I'm learning React.js, Node.js
 * ⚡  I'm sky gazer, My day doesn't finish without seeing those clouds and sky for 15 min
 
