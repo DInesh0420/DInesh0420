@@ -1,10 +1,10 @@
 Hi 👋 My name is Dinesh kumar S
 ===============================
 
-Front end Web Developer
+Full Stack Web Developer
 -------------
 
-I've been coding from 2020 started with python as my domain and learnt some machine learning algorithm, built some projects based on computer vision , image processing and machine learning. By 2021, I started learning Front end tools like HTML CSS JavaScript Bootstrap React , and I have deployed some cool static websites in my git environment. Currently I am working with backend tools.... My web developer journey will never stop
+I've been coding from 2020 started with python as my domain and learnt some machine learning algorithm, built some projects based on computer vision , image processing and machine learning. By 2021, I am learning & Working With tools like HTML CSS JavaScript React Node SQL-Server, and I have deployed some cool static websites in my git environment. Currently I am working with backend tools.... My web developer journey will never stop
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://dinesh0420.github.io/portfolio/)
