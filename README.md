@@ -13,7 +13,7 @@ I've been coding from 2020 started with python as my domain and learnt some mach
 * 😴  Guess the number  (https://guessnumberda.netlify.app/)
 * 🧠  I'm learning React.js, Node.js
 * ⚡  I'm sky gazer, My day doesn't finish without seeing those clouds and sky for 15 min
-* 
+  
 ### Skills
 
 <p align="left">
